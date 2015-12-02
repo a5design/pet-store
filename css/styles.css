@@ -35,7 +35,8 @@ a:hover {
 	background-image: url(../img/hero.jpg);
 	background-size: cover;
 	background-position: center;
-	height: 450px;
+	margin-top:12px;
+	height: 450px
 }
 
 .jumbotron h2 {
@@ -44,3 +45,5 @@ a:hover {
 	color: #FFF;
 }
 /*jumbotron*/
+
+}
